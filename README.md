@@ -63,3 +63,7 @@ The majority of bookings originate from online market segments, followed by offl
 Furthermore, the room price does not seem to be a strong factor explaining cancellations, as most bookings are concentrated around 100€.
 
 In summary, while certain variables like lead time show a potential correlation with cancellations, others such as the number of adults, children, and room price do not provide substantial insights into predicting cancellations.
+
+While lead time appears to have the highest feature importance, suggesting a significant role in predicting cancellations, further exploration of other variables paints a more nuanced picture. Notably, it seems that this hotel may be positioned as an affordable option, possibly catering to stopover stays or those booked for business purposes. This characteristic could explain why reservations are often made with relatively short lead times.
+
+Considering the unique conditions of this hotel, it might be beneficial to tailor the predictive model specifically to similar establishments within the same category. This focused approach could enhance the model's accuracy by capturing patterns that are specific to hotels with comparable features and target audiences.
